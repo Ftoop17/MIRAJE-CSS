@@ -1,6 +1,5 @@
 # MIRAJE | CSS Creator
 
-![MIRAJE CSS Creator Logo](icon.png)
 
 **MIRAJE CSS Creator** - это мощный визуальный конструктор CSS-стилей для HTML-элементов с интуитивно понятным интерфейсом и предпросмотром в реальном времени.
 
