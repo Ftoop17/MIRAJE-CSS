@@ -6,7 +6,7 @@
 
 Ссылка на программу:
 
-- MIRAJE | CSS: [app/miraje-css](https://mega.nz/file/mw5GARTa#8vDcczZ8a21zhVKEMYnHrvk6aNEOy1CA-frBO_Fikoo)
+- MIRAJE | CSS: [скачать программу](https://mega.nz/file/mw5GARTa#8vDcczZ8a21zhVKEMYnHrvk6aNEOy1CA-frBO_Fikoo)
 
 
 
